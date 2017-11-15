@@ -1,0 +1,10 @@
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\bin\Debug\UnivMng.exe.config
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\bin\Debug\UnivMng.exe
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\bin\Debug\UnivMng.pdb
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csprojResolveAssemblyReference.cache
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.Form1.resources
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.Properties.Resources.resources
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.GenerateResource.Cache
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.CoreCompileInputs.cache
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.exe
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.pdb
