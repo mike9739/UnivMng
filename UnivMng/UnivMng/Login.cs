@@ -10,18 +10,26 @@ using System.Windows.Forms;
 
 namespace UnivMng
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
 
-        private void Insert_Click(object sender, EventArgs e)
+        private void usernametbx_TextChanged(object sender, EventArgs e)
         {
-            //se crea la instancia para desplegar el dialogo de insertar departmaneto
-            Insert_department insert_deparment = new Insert_department();
-            insert_deparment.ShowDialog();
+
+        }
+
+        private void Log_in_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

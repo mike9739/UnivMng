@@ -8,3 +8,4 @@ C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.Genera
 C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.CoreCompileInputs.cache
 C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.exe
 C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.pdb
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.Insert_department.resources
