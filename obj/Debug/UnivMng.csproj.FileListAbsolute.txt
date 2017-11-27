@@ -1,0 +1,24 @@
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\bin\Debug\UnivMng.exe.config
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\bin\Debug\UnivMng.exe
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\bin\Debug\UnivMng.pdb
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csprojResolveAssemblyReference.cache
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.Form1.resources
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.Properties.Resources.resources
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.GenerateResource.Cache
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.CoreCompileInputs.cache
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.exe
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.pdb
+C:\Users\SPARTAN PC\source\repos\UnivMng\UnivMng\obj\Debug\UnivMng.Insert_department.resources
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\bin\Debug\UnivMng.exe.config
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\bin\Debug\UnivMng.exe
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\bin\Debug\UnivMng.pdb
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.csprojResolveAssemblyReference.cache
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.Classroom.resources
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.Form1.resources
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.Insert_department.resources
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.Login.resources
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.Properties.Resources.resources
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.GenerateResource.Cache
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.csproj.CoreCompileInputs.cache
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.exe
+C:\Users\migu_\Source\Repos\UnivMng\UnivMng\UnivMng\obj\Debug\UnivMng.pdb
